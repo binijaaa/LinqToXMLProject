@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<amazon>
+	<employee>
+		<name>
+			<firstname>
+				Sabine
+			</firstname>
+			<lastname>
+				Lolololol
+			</lastname>
+		</name>
+		<city>Rome</city>
+		<age>27</age>
+	</employee>
+	<employee>
+		<name>Arturs</name>
+		<city>Rome</city>
+		<age>30</age>
+	</employee>
+</amazon>
+
